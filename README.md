@@ -1,6 +1,6 @@
 一键脚本
 ```
-bash <(curl -L -s https://gitlab.com/rwkgyg/acme-script/raw/main/acme.sh)
+bash <(curl -L -s https://raw.githubusercontent.com/GJXS1980/acme-script/main/acme.sh)
 ```
 
 
